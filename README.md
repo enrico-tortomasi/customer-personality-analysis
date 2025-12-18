@@ -7,8 +7,6 @@
 
 Questo progetto analizza il comportamento d’acquisto dei clienti per identificare segmenti ad alto valore, categorie prodotto trainanti, efficacia delle campagne marketing e canali di acquisto più rilevanti.
 
-![Dashboard Overview](images/dashboard_full.png)
-
 ---
 
 ## Business Questions
@@ -156,4 +154,5 @@ Installare le dipendenze minimo (pandas, matplotlib, seaborn).
 Aprire il notebook in Jupyter / VS Code.
 
 Eseguire tutte le celle in ordine.
+
 
