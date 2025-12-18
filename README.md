@@ -21,7 +21,7 @@ Questo progetto analizza il comportamento d’acquisto dei clienti per identific
 
 ## Dataset
 
-Dataset: **Customer Personality Analysis** (Kaggle)  
+Fonte: [**Customer Personality Analysis** (Kaggle)](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
 Contiene dati demografici, spesa per categoria prodotto, canali d’acquisto e risposte alle campagne marketing.
 
 ---
@@ -154,5 +154,6 @@ Installare le dipendenze minimo (pandas, matplotlib, seaborn).
 Aprire il notebook in Jupyter / VS Code.
 
 Eseguire tutte le celle in ordine.
+
 
 
