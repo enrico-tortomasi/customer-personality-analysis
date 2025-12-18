@@ -1,4 +1,5 @@
 # Customer Personality Analysis
+![Completed](https://img.shields.io/badge/Completed-✓-3CB371)
 
 **Data Analysis Project | Python · Pandas · Matplotlib · Seaborn**
 
@@ -71,9 +72,11 @@ Feature create:
 ### 1) Spesa e reddito (Domanda 1)
 
 Relazione positiva tra `income` e `total_spent`, con presenza di clienti ad alto valore.
+
 ![Income vs Spending](images/income_vs_spending.png)
 
 Segmentazione per fasce di reddito: la spesa media cresce all’aumentare del reddito.
+
 ![Spending by Income Range](images/spending_by_income_range.png)
 
 ---
@@ -81,6 +84,7 @@ Segmentazione per fasce di reddito: la spesa media cresce all’aumentare del re
 ### 2) Categorie prodotto (Domanda 2)
 
 Il fatturato è dominato da poche categorie (tipicamente vino e carne).
+
 ![Product Categories](images/product_categories.png)
 
 ---
@@ -88,6 +92,7 @@ Il fatturato è dominato da poche categorie (tipicamente vino e carne).
 ### 3) Stato civile (Domanda 3)
 
 I clienti Married generano il volume principale, mentre il gruppo Widow risulta piccolo ma con spesa media elevata.
+
 ![Spending by Marital Status](images/spending_by_marital_status.png)
 
 ---
@@ -95,6 +100,7 @@ I clienti Married generano il volume principale, mentre il gruppo Widow risulta 
 ### 4) Marketing (Domanda 4)
 
 All’aumentare delle campagne accettate, aumentano spesa media e valore cliente.
+
 ![Marketing Spending](images/marketing_spending.png)
 
 ---
@@ -102,6 +108,7 @@ All’aumentare delle campagne accettate, aumentano spesa media e valore cliente
 ### 5) Canali di acquisto (Domanda 5)
 
 Store è il canale dominante per volume e valore; Web è secondo e rappresenta opportunità di crescita.
+
 ![Purchase Channels](images/purchase_channels.png)
 
 ---
@@ -124,3 +131,15 @@ Store è il canale dominante per volume e valore; Web è secondo e rappresenta o
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+
+---
+
+## Come eseguire il notebook
+
+Clonare il repository.
+
+Installare le dipendenze minimo (pandas, matplotlib, seaborn).
+
+Aprire il notebook in Jupyter / VS Code.
+
+Eseguire tutte le celle in ordine.
