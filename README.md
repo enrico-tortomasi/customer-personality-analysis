@@ -134,6 +134,19 @@ Store è il canale dominante per volume e valore; Web è secondo e rappresenta o
 
 ---
 
+## Riproduzione
+
+```
+bash
+python -m venv venv
+# Windows: venv\Scripts\activate
+# macOS/Linux: source venv/bin/activate
+pip install -r requirements.txt
+jupyter notebook notebooks/netflix.ipynb
+```
+
+---
+
 ## Come eseguire il notebook
 
 Clonare il repository.
@@ -143,3 +156,4 @@ Installare le dipendenze minimo (pandas, matplotlib, seaborn).
 Aprire il notebook in Jupyter / VS Code.
 
 Eseguire tutte le celle in ordine.
+
